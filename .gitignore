@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.xml
+
+# Virtual Environment
+venv/
+*.pyc
+
+# Dataset
+*data*
+*.jpg
+*.png
+
+# Models
+*model*
+trained_models/
+*.h5
+*.hdf5
+
+# Web Scraping
+downloads/
+*.db
+*.log
